@@ -155,6 +155,6 @@ def get_counties():
 
 
 if __name__ == '__main__':
-    get_districts(flush=True)
-    get_municipalities(flush=True)
-    get_counties(flush=True)
+    get_districts()
+    get_municipalities()
+    get_counties()

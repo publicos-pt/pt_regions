@@ -12,7 +12,7 @@
 """
 import csv
 
-from .auxiliar import cache, NUMBER_OF_COUNTIES, DATA_PATH
+from .auxiliar import cache, NUMBER_OF_COUNTIES, DATA_PATH, PATH
 from . import caop_database
 
 
@@ -224,9 +224,9 @@ def _get_counties():
     return counties
 
 
-@cache('counties.json')
+@cache(PATH + '/counties.json')
 def get_counties():
     return _get_counties()
 
 if __name__ == '__main__':
-    get_counties(flush=True)
+    get_counties()

@@ -20,10 +20,7 @@ def cache(file_name_format):
     def cache_function(function):
         def func_wrapper(*args, **kwargs):
             file_name = file_name_format.format(*args, **kwargs)
-            flush = kwargs.pop('flush', False)
             try:
-                if flush:
-                    raise IOError
                 with open(file_name, 'r', encoding='utf8') as cache_file:
                     data = json.load(cache_file)
             except IOError:

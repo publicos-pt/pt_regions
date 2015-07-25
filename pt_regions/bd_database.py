@@ -13,7 +13,7 @@ This module uses the database from
 import csv
 import datetime
 
-from .auxiliar import cache, DATA_PATH
+from .auxiliar import cache, DATA_PATH, PATH
 from . import caop_database
 
 
@@ -153,10 +153,10 @@ def _get_municipalities():
     return municipalities
 
 
-@cache('municipalities.json')
+@cache(PATH + '/municipalities.json')
 def get_municipalities():
     return _get_municipalities()
 
 
 if __name__ == '__main__':
-    get_municipalities(flush=True)
+    get_municipalities()
