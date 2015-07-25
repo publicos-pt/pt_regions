@@ -1,0 +1,1542 @@
+[
+  {
+    "NIF": 505456010,
+    "district": "LISBOA",
+    "name": "AMADORA"
+  },
+  {
+    "NIF": 506809307,
+    "district": "GUARDA",
+    "name": "AGUIAR DA BEIRA"
+  },
+  {
+    "NIF": 506859487,
+    "district": "VILA REAL",
+    "name": "ALIJÓ"
+  },
+  {
+    "NIF": 505211696,
+    "district": "VIANA DO CASTELO",
+    "name": "ARCOS DE VALDEVEZ"
+  },
+  {
+    "NIF": 506833232,
+    "district": "COIMBRA",
+    "name": "ARGANIL"
+  },
+  {
+    "NIF": 506843190,
+    "district": "VISEU",
+    "name": "ARMAMAR"
+  },
+  {
+    "NIF": 505931192,
+    "district": "AVEIRO",
+    "name": "AVEIRO"
+  },
+  {
+    "NIF": 506854299,
+    "district": "PORTO",
+    "name": "BAIÃO"
+  },
+  {
+    "NIF": 506695956,
+    "district": "CASTELO BRANCO",
+    "name": "BELMONTE"
+  },
+  {
+    "NIF": 506676056,
+    "district": "SANTARÉM",
+    "name": "BENAVENTE"
+  },
+  {
+    "NIF": 506666018,
+    "district": "BRAGANÇA",
+    "name": "CARRAZEDA DE ANSIÃES"
+  },
+  {
+    "NIF": 506684920,
+    "district": "VISEU",
+    "name": "CARREGAL DO SAL"
+  },
+  {
+    "NIF": 506731324,
+    "district": "LEIRIA",
+    "name": "CASTANHEIRA DE PÊRA"
+  },
+  {
+    "NIF": 506716210,
+    "district": "VISEU",
+    "name": "CASTRO DAIRE"
+  },
+  {
+    "NIF": 506801969,
+    "district": "FARO",
+    "name": "CASTRO MARIM"
+  },
+  {
+    "NIF": 506884929,
+    "district": "BRAGA",
+    "name": "CELORICO DE BASTO"
+  },
+  {
+    "NIF": 506841561,
+    "district": "BRAGA",
+    "name": "FAFE"
+  },
+  {
+    "NIF": 506546381,
+    "district": "LEIRIA",
+    "name": "FIGUEIRÓ DOS VINHOS"
+  },
+  {
+    "NIF": 506884937,
+    "district": "BRAGANÇA",
+    "name": "FREIXO DE ESPADA À CINTA"
+  },
+  {
+    "NIF": 506865517,
+    "district": "PORTALEGRE",
+    "name": "GAVIÃO"
+  },
+  {
+    "NIF": 506792382,
+    "district": "AVEIRO",
+    "name": "MEALHADA"
+  },
+  {
+    "NIF": 506840328,
+    "district": "VILA REAL",
+    "name": "MESÃO FRIO"
+  },
+  {
+    "NIF": 506724530,
+    "district": "COIMBRA",
+    "name": "MIRA"
+  },
+  {
+    "NIF": 506881784,
+    "district": "BRAGANÇA",
+    "name": "MIRANDELA"
+  },
+  {
+    "NIF": 506664686,
+    "district": "VISEU",
+    "name": "MOIMENTA DA BEIRA"
+  },
+  {
+    "NIF": 501206639,
+    "district": "ÉVORA",
+    "name": "MOURÃO"
+  },
+  {
+    "NIF": 506834166,
+    "district": "VISEU",
+    "name": "NELAS"
+  },
+  {
+    "NIF": 505311313,
+    "district": "BEJA",
+    "name": "ODEMIRA"
+  },
+  {
+    "NIF": 506876330,
+    "district": "BEJA",
+    "name": "OURIQUE"
+  },
+  {
+    "NIF": 506657957,
+    "district": "COIMBRA",
+    "name": "PENACOVA"
+  },
+  {
+    "NIF": 506811913,
+    "district": "VIANA DO CASTELO",
+    "name": "PONTE DE LIMA"
+  },
+  {
+    "NIF": 507040589,
+    "district": "ÉVORA",
+    "name": "REGUENGOS DE MONSARAZ"
+  },
+  {
+    "NIF": 506818098,
+    "district": "VILA REAL",
+    "name": "RIBEIRA DE PENA"
+  },
+  {
+    "NIF": 511244681,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "SANTA CRUZ"
+  },
+  {
+    "NIF": 506829138,
+    "district": "VILA REAL",
+    "name": "SANTA MARTA DE PENAGUIÃO"
+  },
+  {
+    "NIF": 506882713,
+    "district": "VISEU",
+    "name": "SÁTÃO"
+  },
+  {
+    "NIF": 506852032,
+    "district": "VISEU",
+    "name": "SERNANCELHE"
+  },
+  {
+    "NIF": 507103742,
+    "district": "COIMBRA",
+    "name": "SOURE"
+  },
+  {
+    "NIF": 506809560,
+    "district": "PORTALEGRE",
+    "name": "SOUSEL"
+  },
+  {
+    "NIF": 506806944,
+    "district": "COIMBRA",
+    "name": "TÁBUA"
+  },
+  {
+    "NIF": 506753905,
+    "district": "VISEU",
+    "name": "TAROUCA"
+  },
+  {
+    "NIF": 506738914,
+    "district": "SANTARÉM",
+    "name": "TOMAR"
+  },
+  {
+    "NIF": 506822680,
+    "district": "VISEU",
+    "name": "TONDELA"
+  },
+  {
+    "NIF": 506874320,
+    "district": "VILA REAL",
+    "name": "VALPAÇOS"
+  },
+  {
+    "NIF": 506659682,
+    "district": "BRAGA",
+    "name": "VIEIRA DO MINHO"
+  },
+  {
+    "NIF": 506730573,
+    "district": "FARO",
+    "name": "VILA DO BISPO"
+  },
+  {
+    "NIF": 506696464,
+    "district": "BRAGANÇA",
+    "name": "VILA FLOR"
+  },
+  {
+    "NIF": 506896625,
+    "district": "VIANA DO CASTELO",
+    "name": "VILA NOVA DE CERVEIRA"
+  },
+  {
+    "NIF": 506663264,
+    "district": "BRAGA",
+    "name": "VILA NOVA DE FAMALICÃO"
+  },
+  {
+    "NIF": 506829197,
+    "district": "GUARDA",
+    "name": "VILA NOVA DE FOZ CÔA"
+  },
+  {
+    "NIF": 506809323,
+    "district": "VISEU",
+    "name": "VILA NOVA DE PAIVA"
+  },
+  {
+    "NIF": 506810267,
+    "district": "VILA REAL",
+    "name": "VILA POUCA DE AGUIAR"
+  },
+  {
+    "NIF": 506833224,
+    "district": "FARO",
+    "name": "VILA REAL DE SANTO ANTÓNIO"
+  },
+  {
+    "NIF": 506770664,
+    "district": "VISEU",
+    "name": "VOUZELA"
+  },
+  {
+    "NIF": 506780902,
+    "district": "SANTARÉM",
+    "name": "CARTAXO"
+  },
+  {
+    "NIF": 506814343,
+    "district": "SANTARÉM",
+    "name": "MAÇÃO"
+  },
+  {
+    "NIF": 506873412,
+    "district": "PORTALEGRE",
+    "name": "MONFORTE"
+  },
+  {
+    "NIF": 506818837,
+    "district": "FARO",
+    "name": "SILVES"
+  },
+  {
+    "NIF": 506907619,
+    "district": "BRAGA",
+    "name": "TERRAS DE BOURO"
+  },
+  {
+    "NIF": 512063770,
+    "district": "ILHA DE SANTA MARIA (AÇORES)",
+    "name": "VILA DO PORTO"
+  },
+  {
+    "NIF": 511236425,
+    "district": "ILHA DE PORTO SANTO (MADEIRA)",
+    "name": "PORTO SANTO"
+  },
+  {
+    "NIF": 512065837,
+    "district": "ILHA DO CORVO (AÇORES)",
+    "name": "CORVO"
+  },
+  {
+    "NIF": 506659968,
+    "district": "PORTALEGRE",
+    "name": "CRATO"
+  },
+  {
+    "NIF": 506811662,
+    "district": "GUARDA",
+    "name": "SABUGAL"
+  },
+  {
+    "NIF": 506697339,
+    "district": "BRAGANÇA",
+    "name": "MACEDO DE CAVALEIROS"
+  },
+  {
+    "NIF": 506415082,
+    "district": "COIMBRA",
+    "name": "COIMBRA"
+  },
+  {
+    "NIF": 501290206,
+    "district": "LEIRIA",
+    "name": "BATALHA"
+  },
+  {
+    "NIF": 501305564,
+    "district": "SANTARÉM",
+    "name": "CHAMUSCA"
+  },
+  {
+    "NIF": 505330768,
+    "district": "CASTELO BRANCO",
+    "name": "COVILHÃ"
+  },
+  {
+    "NIF": 501305580,
+    "district": "COIMBRA",
+    "name": "FIGUEIRA DA FOZ"
+  },
+  {
+    "NIF": 506563774,
+    "district": "SANTARÉM",
+    "name": "GOLEGÃ"
+  },
+  {
+    "NIF": 501131140,
+    "district": "GUARDA",
+    "name": "GUARDA"
+  },
+  {
+    "NIF": 512073821,
+    "district": "ILHA DO FAIAL (AÇORES)",
+    "name": "HORTA"
+  },
+  {
+    "NIF": 502177101,
+    "district": "LISBOA",
+    "name": "LOURINHÃ"
+  },
+  {
+    "NIF": 501121528,
+    "district": "COIMBRA",
+    "name": "LOUSÃ"
+  },
+  {
+    "NIF": 512070946,
+    "district": "ILHA DO PICO (AÇORES)",
+    "name": "MADALENA"
+  },
+  {
+    "NIF": 505387131,
+    "district": "PORTO",
+    "name": "MAIA"
+  },
+  {
+    "NIF": 505776758,
+    "district": "LEIRIA",
+    "name": "MARINHA GRANDE"
+  },
+  {
+    "NIF": 506791220,
+    "district": "SETÚBAL",
+    "name": "MOITA"
+  },
+  {
+    "NIF": 506791238,
+    "district": "AVEIRO",
+    "name": "MURTOSA"
+  },
+  {
+    "NIF": 507012100,
+    "district": "LEIRIA",
+    "name": "NAZARÉ"
+  },
+  {
+    "NIF": 506632920,
+    "district": "BRAGA",
+    "name": "PÓVOA DE LANHOSO"
+  },
+  {
+    "NIF": 506741400,
+    "district": "PORTO",
+    "name": "PÓVOA DE VARZIM"
+  },
+  {
+    "NIF": 512065047,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "POVOAÇÃO"
+  },
+  {
+    "NIF": 512044023,
+    "district": "ILHA TERCEIRA (AÇORES)",
+    "name": "PRAIA DA VITÓRIA"
+  },
+  {
+    "NIF": 512013241,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "RIBEIRA GRANDE"
+  },
+  {
+    "NIF": 506963837,
+    "district": "CASTELO BRANCO",
+    "name": "SERTÃ"
+  },
+  {
+    "NIF": 504296434,
+    "district": "PORTO",
+    "name": "TROFA"
+  },
+  {
+    "NIF": 512075506,
+    "district": "ILHA DE SÃO JORGE (AÇORES)",
+    "name": "VELAS"
+  },
+  {
+    "NIF": 502661038,
+    "district": "SANTARÉM",
+    "name": "ABRANTES"
+  },
+  {
+    "NIF": 501090436,
+    "district": "AVEIRO",
+    "name": "ÁGUEDA"
+  },
+  {
+    "NIF": 506772527,
+    "district": "ÉVORA",
+    "name": "ALANDROAL"
+  },
+  {
+    "NIF": 506783146,
+    "district": "AVEIRO",
+    "name": "ALBERGARIA-A-VELHA"
+  },
+  {
+    "NIF": 503539473,
+    "district": "FARO",
+    "name": "ALBUFEIRA"
+  },
+  {
+    "NIF": 502150319,
+    "district": "SETÚBAL",
+    "name": "ALCÁCER DO SAL"
+  },
+  {
+    "NIF": 500745773,
+    "district": "SANTARÉM",
+    "name": "ALCANENA"
+  },
+  {
+    "NIF": 506874249,
+    "district": "LEIRIA",
+    "name": "ALCOBAÇA"
+  },
+  {
+    "NIF": 506788490,
+    "district": "SETÚBAL",
+    "name": "ALCOCHETE"
+  },
+  {
+    "NIF": 506772446,
+    "district": "FARO",
+    "name": "ALCOUTIM"
+  },
+  {
+    "NIF": 501305734,
+    "district": "LISBOA",
+    "name": "ALENQUER"
+  },
+  {
+    "NIF": 506647498,
+    "district": "BRAGANÇA",
+    "name": "ALFÂNDEGA DA FÉ"
+  },
+  {
+    "NIF": 505932512,
+    "district": "FARO",
+    "name": "ALJEZUR"
+  },
+  {
+    "NIF": 501122486,
+    "district": "BEJA",
+    "name": "ALJUSTREL"
+  },
+  {
+    "NIF": 500051054,
+    "district": "SETÚBAL",
+    "name": "ALMADA"
+  },
+  {
+    "NIF": 506625419,
+    "district": "GUARDA",
+    "name": "ALMEIDA"
+  },
+  {
+    "NIF": 501273433,
+    "district": "SANTARÉM",
+    "name": "ALMEIRIM"
+  },
+  {
+    "NIF": 506816184,
+    "district": "BEJA",
+    "name": "ALMODÔVAR"
+  },
+  {
+    "NIF": 501133097,
+    "district": "SANTARÉM",
+    "name": "ALPIARÇA"
+  },
+  {
+    "NIF": 501132872,
+    "district": "PORTALEGRE",
+    "name": "ALTER DO CHÃO"
+  },
+  {
+    "NIF": 506605949,
+    "district": "LEIRIA",
+    "name": "ALVAIÁZERE"
+  },
+  {
+    "NIF": 501288120,
+    "district": "BEJA",
+    "name": "ALVITO"
+  },
+  {
+    "NIF": 501102752,
+    "district": "PORTO",
+    "name": "AMARANTE"
+  },
+  {
+    "NIF": 506797627,
+    "district": "BRAGA",
+    "name": "AMARES"
+  },
+  {
+    "NIF": 501294163,
+    "district": "AVEIRO",
+    "name": "ANADIA"
+  },
+  {
+    "NIF": 512044040,
+    "district": "ILHA TERCEIRA (AÇORES)",
+    "name": "ANGRA DO HEROÍSMO"
+  },
+  {
+    "NIF": 506605930,
+    "district": "LEIRIA",
+    "name": "ANSIÃO"
+  },
+  {
+    "NIF": 506808122,
+    "district": "AVEIRO",
+    "name": "AROUCA"
+  },
+  {
+    "NIF": 501258027,
+    "district": "ÉVORA",
+    "name": "ARRAIOLOS"
+  },
+  {
+    "NIF": 501155996,
+    "district": "PORTALEGRE",
+    "name": "ARRONCHES"
+  },
+  {
+    "NIF": 505307685,
+    "district": "LISBOA",
+    "name": "ARRUDA DOS VINHOS"
+  },
+  {
+    "NIF": 502789824,
+    "district": "PORTALEGRE",
+    "name": "AVIS"
+  },
+  {
+    "NIF": 506821480,
+    "district": "LISBOA",
+    "name": "AZAMBUJA"
+  },
+  {
+    "NIF": 505584760,
+    "district": "BRAGA",
+    "name": "BARCELOS"
+  },
+  {
+    "NIF": 501081216,
+    "district": "BEJA",
+    "name": "BARRANCOS"
+  },
+  {
+    "NIF": 504884620,
+    "district": "BEJA",
+    "name": "BEJA"
+  },
+  {
+    "NIF": 506800580,
+    "district": "LEIRIA",
+    "name": "BOMBARRAL"
+  },
+  {
+    "NIF": 503956546,
+    "district": "ÉVORA",
+    "name": "BORBA"
+  },
+  {
+    "NIF": 506901173,
+    "district": "BRAGA",
+    "name": "BRAGA"
+  },
+  {
+    "NIF": 506215547,
+    "district": "BRAGANÇA",
+    "name": "BRAGANÇA"
+  },
+  {
+    "NIF": 505330334,
+    "district": "BRAGA",
+    "name": "CABECEIRAS DE BASTO"
+  },
+  {
+    "NIF": 501222634,
+    "district": "LEIRIA",
+    "name": "CALDAS DA RAINHA"
+  },
+  {
+    "NIF": 511233639,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "CALHETA"
+  },
+  {
+    "NIF": 512074089,
+    "district": "ILHA DE SÃO JORGE (AÇORES)",
+    "name": "CALHETA DE SÃO JORGE"
+  },
+  {
+    "NIF": 511233620,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "CÂMARA DE LOBOS"
+  },
+  {
+    "NIF": 500843139,
+    "district": "VIANA DO CASTELO",
+    "name": "CAMINHA"
+  },
+  {
+    "NIF": 501175229,
+    "district": "PORTALEGRE",
+    "name": "CAMPO MAIOR"
+  },
+  {
+    "NIF": 506087000,
+    "district": "COIMBRA",
+    "name": "CANTANHEDE"
+  },
+  {
+    "NIF": 505187531,
+    "district": "LISBOA",
+    "name": "CASCAIS"
+  },
+  {
+    "NIF": 501143530,
+    "district": "CASTELO BRANCO",
+    "name": "CASTELO BRANCO"
+  },
+  {
+    "NIF": 502678917,
+    "district": "AVEIRO",
+    "name": "CASTELO DE PAIVA"
+  },
+  {
+    "NIF": 506796035,
+    "district": "PORTALEGRE",
+    "name": "CASTELO DE VIDE"
+  },
+  {
+    "NIF": 501135960,
+    "district": "BEJA",
+    "name": "CASTRO VERDE"
+  },
+  {
+    "NIF": 506849635,
+    "district": "GUARDA",
+    "name": "CELORICO DA BEIRA"
+  },
+  {
+    "NIF": 506693651,
+    "district": "VISEU",
+    "name": "CINFÃES"
+  },
+  {
+    "NIF": 501275380,
+    "district": "COIMBRA",
+    "name": "CONDEIXA-A-NOVA"
+  },
+  {
+    "NIF": 506826546,
+    "district": "SANTARÉM",
+    "name": "CONSTÂNCIA"
+  },
+  {
+    "NIF": 506722422,
+    "district": "SANTARÉM",
+    "name": "CORUCHE"
+  },
+  {
+    "NIF": 500832935,
+    "district": "BEJA",
+    "name": "CUBA"
+  },
+  {
+    "NIF": 501272968,
+    "district": "PORTALEGRE",
+    "name": "ELVAS"
+  },
+  {
+    "NIF": 501158740,
+    "district": "AVEIRO",
+    "name": "ESPINHO"
+  },
+  {
+    "NIF": 506617599,
+    "district": "BRAGA",
+    "name": "ESPOSENDE"
+  },
+  {
+    "NIF": 501190082,
+    "district": "AVEIRO",
+    "name": "ESTARREJA"
+  },
+  {
+    "NIF": 506556590,
+    "district": "ÉVORA",
+    "name": "ESTREMOZ"
+  },
+  {
+    "NIF": 504828576,
+    "district": "ÉVORA",
+    "name": "ÉVORA"
+  },
+  {
+    "NIF": 506579425,
+    "district": "FARO",
+    "name": "FARO"
+  },
+  {
+    "NIF": 501091823,
+    "district": "PORTO",
+    "name": "FELGUEIRAS"
+  },
+  {
+    "NIF": 501227490,
+    "district": "BEJA",
+    "name": "FERREIRA DO ALENTEJO"
+  },
+  {
+    "NIF": 501216839,
+    "district": "SANTARÉM",
+    "name": "FERREIRA DO ZÊZERE"
+  },
+  {
+    "NIF": 505987449,
+    "district": "GUARDA",
+    "name": "FIGUEIRA DE CASTELO RODRIGO"
+  },
+  {
+    "NIF": 505592959,
+    "district": "GUARDA",
+    "name": "FORNOS DE ALGODRES"
+  },
+  {
+    "NIF": 501162941,
+    "district": "PORTALEGRE",
+    "name": "FRONTEIRA"
+  },
+  {
+    "NIF": 506613399,
+    "district": "COIMBRA",
+    "name": "GÓIS"
+  },
+  {
+    "NIF": 506848957,
+    "district": "PORTO",
+    "name": "GONDOMAR"
+  },
+  {
+    "NIF": 506510476,
+    "district": "GUARDA",
+    "name": "GOUVEIA"
+  },
+  {
+    "NIF": 506823318,
+    "district": "SETÚBAL",
+    "name": "GRÂNDOLA"
+  },
+  {
+    "NIF": 505948605,
+    "district": "BRAGA",
+    "name": "GUIMARÃES"
+  },
+  {
+    "NIF": 501121030,
+    "district": "CASTELO BRANCO",
+    "name": "IDANHA-A-NOVA"
+  },
+  {
+    "NIF": 506920887,
+    "district": "AVEIRO",
+    "name": "ÍLHAVO"
+  },
+  {
+    "NIF": 506804240,
+    "district": "FARO",
+    "name": "LAGOA"
+  },
+  {
+    "NIF": 512074410,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "LAGOA / ILHA DE SÃO MIGUEL (AÇORES)"
+  },
+  {
+    "NIF": 505170876,
+    "district": "FARO",
+    "name": "LAGOS"
+  },
+  {
+    "NIF": 512074836,
+    "district": "ILHA DAS FLORES (AÇORES)",
+    "name": "LAJES DAS FLORES"
+  },
+  {
+    "NIF": 512074143,
+    "district": "ILHA DO PICO (AÇORES)",
+    "name": "LAJES DO PICO"
+  },
+  {
+    "NIF": 506572218,
+    "district": "VISEU",
+    "name": "LAMEGO"
+  },
+  {
+    "NIF": 505181266,
+    "district": "LEIRIA",
+    "name": "LEIRIA"
+  },
+  {
+    "NIF": 500051070,
+    "district": "LISBOA",
+    "name": "LISBOA"
+  },
+  {
+    "NIF": 502098139,
+    "district": "FARO",
+    "name": "LOULÉ"
+  },
+  {
+    "NIF": 501294996,
+    "district": "LISBOA",
+    "name": "LOURES"
+  },
+  {
+    "NIF": 505279460,
+    "district": "PORTO",
+    "name": "LOUSADA"
+  },
+  {
+    "NIF": 511239440,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "MACHICO"
+  },
+  {
+    "NIF": 502177080,
+    "district": "LISBOA",
+    "name": "MAFRA"
+  },
+  {
+    "NIF": 501262997,
+    "district": "VISEU",
+    "name": "MANGUALDE"
+  },
+  {
+    "NIF": 506632946,
+    "district": "GUARDA",
+    "name": "MANTEIGAS"
+  },
+  {
+    "NIF": 501073655,
+    "district": "PORTO",
+    "name": "MARCO DE CANAVESES"
+  },
+  {
+    "NIF": 501170162,
+    "district": "PORTALEGRE",
+    "name": "MARVÃO"
+  },
+  {
+    "NIF": 501305912,
+    "district": "PORTO",
+    "name": "MATOSINHOS"
+  },
+  {
+    "NIF": 505161974,
+    "district": "GUARDA",
+    "name": "MÊDA"
+  },
+  {
+    "NIF": 505592940,
+    "district": "VIANA DO CASTELO",
+    "name": "MELGAÇO"
+  },
+  {
+    "NIF": 503279765,
+    "district": "BEJA",
+    "name": "MÉRTOLA"
+  },
+  {
+    "NIF": 506624200,
+    "district": "COIMBRA",
+    "name": "MIRANDA DO CORVO"
+  },
+  {
+    "NIF": 506806898,
+    "district": "BRAGANÇA",
+    "name": "MIRANDA DO DOURO"
+  },
+  {
+    "NIF": 506851168,
+    "district": "BRAGANÇA",
+    "name": "MOGADOURO"
+  },
+  {
+    "NIF": 501937471,
+    "district": "VIANA DO CASTELO",
+    "name": "MONÇÃO"
+  },
+  {
+    "NIF": 506826961,
+    "district": "FARO",
+    "name": "MONCHIQUE"
+  },
+  {
+    "NIF": 506967107,
+    "district": "VILA REAL",
+    "name": "MONDIM DE BASTO"
+  },
+  {
+    "NIF": 506149811,
+    "district": "VILA REAL",
+    "name": "MONTALEGRE"
+  },
+  {
+    "NIF": 506609553,
+    "district": "ÉVORA",
+    "name": "MONTEMOR-O-NOVO"
+  },
+  {
+    "NIF": 501272976,
+    "district": "COIMBRA",
+    "name": "MONTEMOR-O-VELHO"
+  },
+  {
+    "NIF": 502834846,
+    "district": "SETÚBAL",
+    "name": "MONTIJO"
+  },
+  {
+    "NIF": 501129103,
+    "district": "ÉVORA",
+    "name": "MORA"
+  },
+  {
+    "NIF": 506855368,
+    "district": "VISEU",
+    "name": "MORTÁGUA"
+  },
+  {
+    "NIF": 502174153,
+    "district": "BEJA",
+    "name": "MOURA"
+  },
+  {
+    "NIF": 506862763,
+    "district": "VILA REAL",
+    "name": "MURÇA"
+  },
+  {
+    "NIF": 506612287,
+    "district": "PORTALEGRE",
+    "name": "NISA"
+  },
+  {
+    "NIF": 512042659,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "NORDESTE"
+  },
+  {
+    "NIF": 506802698,
+    "district": "LEIRIA",
+    "name": "ÓBIDOS"
+  },
+  {
+    "NIF": 504293125,
+    "district": "LISBOA",
+    "name": "ODIVELAS"
+  },
+  {
+    "NIF": 500745943,
+    "district": "LISBOA",
+    "name": "OEIRAS"
+  },
+  {
+    "NIF": 506824152,
+    "district": "CASTELO BRANCO",
+    "name": "OLEIROS"
+  },
+  {
+    "NIF": 506321894,
+    "district": "FARO",
+    "name": "OLHÃO"
+  },
+  {
+    "NIF": 506302970,
+    "district": "AVEIRO",
+    "name": "OLIVEIRA DE AZEMÉIS"
+  },
+  {
+    "NIF": 501306234,
+    "district": "VISEU",
+    "name": "OLIVEIRA DE FRADES"
+  },
+  {
+    "NIF": 501128840,
+    "district": "AVEIRO",
+    "name": "OLIVEIRA DO BAIRRO"
+  },
+  {
+    "NIF": 506818829,
+    "district": "COIMBRA",
+    "name": "OLIVEIRA DO HOSPITAL"
+  },
+  {
+    "NIF": 501280740,
+    "district": "SANTARÉM",
+    "name": "OURÉM"
+  },
+  {
+    "NIF": 501306269,
+    "district": "AVEIRO",
+    "name": "OVAR"
+  },
+  {
+    "NIF": 502173297,
+    "district": "PORTO",
+    "name": "PAÇOS DE FERREIRA"
+  },
+  {
+    "NIF": 506187543,
+    "district": "SETÚBAL",
+    "name": "PALMELA"
+  },
+  {
+    "NIF": 506811883,
+    "district": "COIMBRA",
+    "name": "PAMPILHOSA DA SERRA"
+  },
+  {
+    "NIF": 506656128,
+    "district": "PORTO",
+    "name": "PAREDES"
+  },
+  {
+    "NIF": 506632938,
+    "district": "VIANA DO CASTELO",
+    "name": "PAREDES DE COURA"
+  },
+  {
+    "NIF": 507011937,
+    "district": "LEIRIA",
+    "name": "PEDRÓGÃO GRANDE"
+  },
+  {
+    "NIF": 501073663,
+    "district": "PORTO",
+    "name": "PENAFIEL"
+  },
+  {
+    "NIF": 506792404,
+    "district": "VISEU",
+    "name": "PENALVA DO CASTELO"
+  },
+  {
+    "NIF": 506192164,
+    "district": "CASTELO BRANCO",
+    "name": "PENAMACOR"
+  },
+  {
+    "NIF": 506651541,
+    "district": "VISEU",
+    "name": "PENEDONO"
+  },
+  {
+    "NIF": 506778037,
+    "district": "COIMBRA",
+    "name": "PENELA"
+  },
+  {
+    "NIF": 506812820,
+    "district": "LEIRIA",
+    "name": "PENICHE"
+  },
+  {
+    "NIF": 506829260,
+    "district": "VILA REAL",
+    "name": "PESO DA RÉGUA"
+  },
+  {
+    "NIF": 506787249,
+    "district": "GUARDA",
+    "name": "PINHEL"
+  },
+  {
+    "NIF": 506334562,
+    "district": "LEIRIA",
+    "name": "POMBAL"
+  },
+  {
+    "NIF": 512012814,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "PONTA DELGADA"
+  },
+  {
+    "NIF": 511235461,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "PONTA DO SOL"
+  },
+  {
+    "NIF": 505676770,
+    "district": "VIANA DO CASTELO",
+    "name": "PONTE DA BARCA"
+  },
+  {
+    "NIF": 506806456,
+    "district": "PORTALEGRE",
+    "name": "PONTE DE SOR"
+  },
+  {
+    "NIF": 501143718,
+    "district": "PORTALEGRE",
+    "name": "PORTALEGRE"
+  },
+  {
+    "NIF": 506196445,
+    "district": "ÉVORA",
+    "name": "PORTEL"
+  },
+  {
+    "NIF": 505309939,
+    "district": "FARO",
+    "name": "PORTIMÃO"
+  },
+  {
+    "NIF": 505586401,
+    "district": "LEIRIA",
+    "name": "PORTO DE MÓS"
+  },
+  {
+    "NIF": 511239068,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "PORTO MONIZ"
+  },
+  {
+    "NIF": 505377802,
+    "district": "CASTELO BRANCO",
+    "name": "PROENÇA-A-NOVA"
+  },
+  {
+    "NIF": 506349381,
+    "district": "VISEU",
+    "name": "RESENDE"
+  },
+  {
+    "NIF": 511236417,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "RIBEIRA BRAVA"
+  },
+  {
+    "NIF": 505656000,
+    "district": "SANTARÉM",
+    "name": "RIO MAIOR"
+  },
+  {
+    "NIF": 503219924,
+    "district": "FARO",
+    "name": "SÃO BRÁS DE ALPORTEL"
+  },
+  {
+    "NIF": 506824942,
+    "district": "VILA REAL",
+    "name": "SABROSA"
+  },
+  {
+    "NIF": 506755150,
+    "district": "SANTARÉM",
+    "name": "SALVATERRA DE MAGOS"
+  },
+  {
+    "NIF": 506637441,
+    "district": "VISEU",
+    "name": "SANTA COMBA DÃO"
+  },
+  {
+    "NIF": 512069760,
+    "district": "ILHA DA GRACIOSA (AÇORES)",
+    "name": "SANTA CRUZ DA GRACIOSA"
+  },
+  {
+    "NIF": 512079110,
+    "district": "ILHA DAS FLORES (AÇORES)",
+    "name": "SANTA CRUZ DAS FLORES"
+  },
+  {
+    "NIF": 501157280,
+    "district": "AVEIRO",
+    "name": "SANTA MARIA DA FEIRA"
+  },
+  {
+    "NIF": 511239980,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "SANTANA"
+  },
+  {
+    "NIF": 505941350,
+    "district": "SANTARÉM",
+    "name": "SANTARÉM"
+  },
+  {
+    "NIF": 502130040,
+    "district": "SETÚBAL",
+    "name": "SANTIAGO DO CACÉM"
+  },
+  {
+    "NIF": 501306870,
+    "district": "PORTO",
+    "name": "SANTO TIRSO"
+  },
+  {
+    "NIF": 506538575,
+    "district": "AVEIRO",
+    "name": "SÃO JOÃO DA MADEIRA"
+  },
+  {
+    "NIF": 506892646,
+    "district": "VISEU",
+    "name": "SÃO JOÃO DA PESQUEIRA"
+  },
+  {
+    "NIF": 506785815,
+    "district": "VISEU",
+    "name": "SÃO PEDRO DO SUL"
+  },
+  {
+    "NIF": 512074771,
+    "district": "ILHA DO PICO (AÇORES)",
+    "name": "SÃO ROQUE DO PICO"
+  },
+  {
+    "NIF": 511240112,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "SÃO VICENTE"
+  },
+  {
+    "NIF": 501181857,
+    "district": "SANTARÉM",
+    "name": "SARDOAL"
+  },
+  {
+    "NIF": 506676170,
+    "district": "GUARDA",
+    "name": "SEIA"
+  },
+  {
+    "NIF": 501112049,
+    "district": "BEJA",
+    "name": "SERPA"
+  },
+  {
+    "NIF": 501144218,
+    "district": "SETÚBAL",
+    "name": "SESIMBRA"
+  },
+  {
+    "NIF": 501294104,
+    "district": "SETÚBAL",
+    "name": "SETÚBAL"
+  },
+  {
+    "NIF": 502704977,
+    "district": "AVEIRO",
+    "name": "SEVER DO VOUGA"
+  },
+  {
+    "NIF": 502563010,
+    "district": "SETÚBAL",
+    "name": "SINES"
+  },
+  {
+    "NIF": 500051062,
+    "district": "LISBOA",
+    "name": "SINTRA"
+  },
+  {
+    "NIF": 505410850,
+    "district": "LISBOA",
+    "name": "SOBRAL DE MONTE AGRAÇO"
+  },
+  {
+    "NIF": 501067191,
+    "district": "FARO",
+    "name": "TAVIRA"
+  },
+  {
+    "NIF": 501121536,
+    "district": "BRAGANÇA",
+    "name": "TORRE DE MONCORVO"
+  },
+  {
+    "NIF": 506608972,
+    "district": "SANTARÉM",
+    "name": "TORRES NOVAS"
+  },
+  {
+    "NIF": 502173653,
+    "district": "LISBOA",
+    "name": "TORRES VEDRAS"
+  },
+  {
+    "NIF": 501143726,
+    "district": "GUARDA",
+    "name": "TRANCOSO"
+  },
+  {
+    "NIF": 506912833,
+    "district": "AVEIRO",
+    "name": "VAGOS"
+  },
+  {
+    "NIF": 506735524,
+    "district": "AVEIRO",
+    "name": "VALE DE CAMBRA"
+  },
+  {
+    "NIF": 506728897,
+    "district": "VIANA DO CASTELO",
+    "name": "VALENÇA"
+  },
+  {
+    "NIF": 501138960,
+    "district": "PORTO",
+    "name": "VALONGO"
+  },
+  {
+    "NIF": 501177256,
+    "district": "ÉVORA",
+    "name": "VENDAS NOVAS"
+  },
+  {
+    "NIF": 506151174,
+    "district": "ÉVORA",
+    "name": "VIANA DO ALENTEJO"
+  },
+  {
+    "NIF": 506037258,
+    "district": "VIANA DO CASTELO",
+    "name": "VIANA DO CASTELO"
+  },
+  {
+    "NIF": 501143734,
+    "district": "BEJA",
+    "name": "VIDIGUEIRA"
+  },
+  {
+    "NIF": 506932273,
+    "district": "CASTELO BRANCO",
+    "name": "VILA DE REI"
+  },
+  {
+    "NIF": 505804786,
+    "district": "PORTO",
+    "name": "VILA DO CONDE"
+  },
+  {
+    "NIF": 506614913,
+    "district": "LISBOA",
+    "name": "VILA FRANCA DE XIRA"
+  },
+  {
+    "NIF": 512043701,
+    "district": "ILHA DE SÃO MIGUEL (AÇORES)",
+    "name": "VILA FRANCA DO CAMPO"
+  },
+  {
+    "NIF": 506899250,
+    "district": "SANTARÉM",
+    "name": "VILA NOVA DA BARQUINHA"
+  },
+  {
+    "NIF": 505335018,
+    "district": "PORTO",
+    "name": "VILA NOVA DE GAIA"
+  },
+  {
+    "NIF": 505371600,
+    "district": "COIMBRA",
+    "name": "VILA NOVA DE POIARES"
+  },
+  {
+    "NIF": 506359670,
+    "district": "VILA REAL",
+    "name": "VILA REAL"
+  },
+  {
+    "NIF": 506642798,
+    "district": "CASTELO BRANCO",
+    "name": "VILA VELHA DE RÓDÃO"
+  },
+  {
+    "NIF": 506641376,
+    "district": "BRAGA",
+    "name": "VILA VERDE"
+  },
+  {
+    "NIF": 506613461,
+    "district": "ÉVORA",
+    "name": "VILA VIÇOSA"
+  },
+  {
+    "NIF": 506627888,
+    "district": "BRAGANÇA",
+    "name": "VIMIOSO"
+  },
+  {
+    "NIF": 501156003,
+    "district": "BRAGANÇA",
+    "name": "VINHAIS"
+  },
+  {
+    "NIF": 506697320,
+    "district": "VISEU",
+    "name": "VISEU"
+  },
+  {
+    "NIF": 505985217,
+    "district": "BRAGA",
+    "name": "VIZELA"
+  },
+  {
+    "NIF": 506673626,
+    "district": "SETÚBAL",
+    "name": "BARREIRO"
+  },
+  {
+    "NIF": 505763621,
+    "district": "LISBOA",
+    "name": "CADAVAL"
+  },
+  {
+    "NIF": 501205551,
+    "district": "VILA REAL",
+    "name": "CHAVES"
+  },
+  {
+    "NIF": 501120149,
+    "district": "SANTARÉM",
+    "name": "ENTRONCAMENTO"
+  },
+  {
+    "NIF": 511217315,
+    "district": "ILHA DA MADEIRA (MADEIRA)",
+    "name": "FUNCHAL"
+  },
+  {
+    "NIF": 506215695,
+    "district": "CASTELO BRANCO",
+    "name": "FUNDÃO"
+  },
+  {
+    "NIF": 501306099,
+    "district": "PORTO",
+    "name": "PORTO"
+  },
+  {
+    "NIF": 501834117,
+    "district": "ÉVORA",
+    "name": "REDONDO"
+  },
+  {
+    "NIF": 506173968,
+    "district": "SETÚBAL",
+    "name": "SEIXAL"
+  },
+  {
+    "NIF": 506601455,
+    "district": "VISEU",
+    "name": "TABUAÇO"
+  },
+  {
+    "NIF": 506886964,
+    "district": "VILA REAL",
+    "name": "BOTICAS"
+  }
+]
